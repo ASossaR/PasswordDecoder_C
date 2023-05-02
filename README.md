@@ -1,19 +1,19 @@
-void introduction(){
-	printf("\n\n\n");
-	printf("________________________________________________\n");
-	printf("|                                              |\n");
-	printf("|        Arquitectura de Computadores I        |\n");
-	printf("|       Proyecto2 Procesamiento Paralelo       |\n");
-	printf("|                 Estudiantes:                 |\n");
-	printf("|              Alvaro Sossa Rojas              |\n");
-	printf("|             Genesis Mendez Castro            |\n");
-	printf("|               II semestre 2021               |\n");
-	printf("|                                              |\n");
-	printf("|     ....Presione enter para continuar....    |\n");
-	printf("|______________________________________________|\n");
-	getchar();
-	system("clear");
-}
+________________________________________________
+
+        Arquitectura de Computadores I        
+
+       Proyecto2 Procesamiento Paralelo       
+
+                 Estudiantes:                 
+
+              Alvaro Sossa Rojas              
+
+             Genesis Mendez Castro            
+
+               II semestre 2021               
+
+______________________________________________
+
 
 This is a dedicated program prepared by Alvaro Alvaro Sossa and Genesis mendez for Arquitectura de Comutadoras's class.
 
